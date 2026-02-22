@@ -26,7 +26,7 @@ function askRAG(question) {
 }
 
 // Example usage
-askRAG("first give what is there about LSTM in the context then explain it to me in more detail")
+askRAG("fuzzy control system example")
   .then(res => {
     console.log("Answer from Python RAG:\n");
     console.log(res.answer);
