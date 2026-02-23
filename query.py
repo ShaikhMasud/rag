@@ -42,7 +42,7 @@ def expand_query(q):
 
 
 # -------- MAIN ASK FUNCTION --------
-def ask(question, k=10):
+def ask(question, k=20):
     expanded = expand_query(question)
 
     candidate_chunks = []

@@ -1,0 +1,425 @@
+{
+  "UNIT IV": {
+    "4.1": {
+      "title": "Introduction to Trees",
+      "keywords": ["trees", "non-linear data structure", "hierarchical structure", "graphs", "root"]
+    },
+    "4.2": {
+      "title": "Tree Terminology",
+      "keywords": ["node", "root", "edge", "parent", "child", "siblings", "leaf"]
+    },
+    "4.3": {
+      "title": "Tree Properties",
+      "keywords": ["degree", "level", "height", "depth", "path", "subtree"]
+    },
+    "4.4": {
+      "title": "Tree Representations",
+      "keywords": ["list representation", "left child right sibling", "degree two tree"]
+    },
+    "4.5": {
+      "title": "Binary Trees",
+      "keywords": ["binary tree", "left child", "right child", "degree two"]
+    },
+    "4.6": {
+      "title": "Types of Binary Trees",
+      "keywords": [
+        "strictly binary tree",
+        "full binary tree",
+        "complete binary tree",
+        "perfect binary tree",
+        "extended binary tree"
+      ]
+    },
+    "4.7": {
+      "title": "Binary Tree Abstract Data Type",
+      "keywords": ["ADT", "binary tree definition", "left subtree", "right subtree"]
+    },
+    "4.8": {
+      "title": "Properties of Binary Trees",
+      "keywords": [
+        "maximum nodes",
+        "leaf nodes",
+        "degree two nodes",
+        "depth",
+        "height"
+      ]
+    },
+    "4.9": {
+      "title": "Binary Tree Representation",
+      "keywords": [
+        "array representation",
+        "linked list representation",
+        "parent index",
+        "child index"
+      ]
+    },
+    "4.10": {
+      "title": "Binary Tree Traversals",
+      "keywords": [
+        "inorder traversal",
+        "preorder traversal",
+        "postorder traversal"
+      ]
+    },
+    "4.11": {
+      "title": "Iterative and Level Order Traversal",
+      "keywords": [
+        "stack traversal",
+        "queue traversal",
+        "level order traversal",
+        "breadth first traversal"
+      ]
+    },
+    "4.12": {
+      "title": "Binary Search Trees",
+      "keywords": [
+        "BST definition",
+        "search operation",
+        "ordering property",
+        "dictionary ADT"
+      ]
+    },
+    "4.13": {
+      "title": "BST Searching",
+      "keywords": [
+        "recursive search",
+        "iterative search",
+        "time complexity",
+        "tree height"
+      ]
+    },
+    "4.14": {
+      "title": "BST Insertion",
+      "keywords": [
+        "insert operation",
+        "leaf insertion",
+        "binary search tree construction"
+      ]
+    },
+    "4.15": {
+      "title": "BST Deletion",
+      "keywords": [
+        "delete leaf node",
+        "delete node with one child",
+        "delete node with two children"
+      ]
+    },
+    "4.16": {
+      "title": "Height of Binary Search Tree",
+      "keywords": [
+        "tree height",
+        "recursive height calculation",
+        "null tree height"
+      ]
+    }
+  },
+  "UNIT V": {
+    "5.1": {
+      "title": "Introduction to Graphs",
+      "keywords": ["graph", "vertices", "edges", "G(V,E)"]
+    },
+    "5.2": {
+      "title": "Graph Terminology",
+      "keywords": [
+        "undirected graph",
+        "directed graph",
+        "complete graph",
+        "adjacent",
+        "incident"
+      ]
+    },
+    "5.3": {
+      "title": "Types of Graphs",
+      "keywords": [
+        "multigraph",
+        "self loop",
+        "feedback loop",
+        "simple graph"
+      ]
+    },
+    "5.4": {
+      "title": "Subgraphs and Paths",
+      "keywords": [
+        "subgraph",
+        "path",
+        "simple path",
+        "cycle",
+        "connected graph"
+      ]
+    },
+    "5.5": {
+      "title": "Degree of a Vertex",
+      "keywords": [
+        "degree",
+        "in-degree",
+        "out-degree",
+        "number of edges"
+      ]
+    },
+    "5.6": {
+      "title": "Graph Abstract Data Type",
+      "keywords": [
+        "graph ADT",
+        "insert vertex",
+        "insert edge",
+        "delete vertex",
+        "delete edge"
+      ]
+    },
+    "5.7": {
+      "title": "Graph Representations",
+      "keywords": [
+        "adjacency matrix",
+        "adjacency list",
+        "adjacency multilist"
+      ]
+    },
+    "5.8": {
+      "title": "Adjacency Matrix Representation",
+      "keywords": [
+        "matrix representation",
+        "symmetric matrix",
+        "in-degree",
+        "out-degree"
+      ]
+    },
+    "5.9": {
+      "title": "Adjacency List Representation",
+      "keywords": [
+        "linked list",
+        "graph traversal",
+        "space efficiency"
+      ]
+    },
+    "5.10": {
+      "title": "Adjacency Multilist Representation",
+      "keywords": [
+        "shared edges",
+        "undirected graph",
+        "edge nodes"
+      ]
+    },
+    "5.11": {
+      "title": "Graph Traversal",
+      "keywords": [
+        "graph traversal",
+        "DFS",
+        "BFS",
+        "visited nodes"
+      ]
+    },
+    "5.12": {
+      "title": "Depth First Search",
+      "keywords": [
+        "DFS",
+        "stack",
+        "recursive DFS",
+        "graph traversal algorithm"
+      ]
+    },
+    "5.13": {
+      "title": "Breadth First Search",
+      "keywords": [
+        "BFS",
+        "queue",
+        "level order traversal",
+        "graph traversal algorithm"
+      ]
+    },
+    "5.14": {
+      "title": "Spanning Trees",
+      "keywords": [
+        "spanning tree",
+        "DFS spanning tree",
+        "BFS spanning tree",
+        "tree edges"
+      ]
+    },
+    "5.15": {
+      "title": "Minimum Cost Spanning Tree",
+      "keywords": [
+        "minimum spanning tree",
+        "edge weights",
+        "graph cost"
+      ]
+    },
+    "5.16": {
+      "title": "Kruskal’s Algorithm",
+      "keywords": [
+        "kruskal algorithm",
+        "greedy method",
+        "cycle detection"
+      ]
+    },
+    "5.17": {
+      "title": "Prim’s Algorithm",
+      "keywords": [
+        "prim algorithm",
+        "minimum spanning tree",
+        "greedy approach"
+      ]
+    },
+    "5.18": {
+      "title": "Single Source Shortest Path",
+      "keywords": [
+        "shortest path",
+        "cost matrix",
+        "distance array"
+      ]
+    },
+    "5.19": {
+      "title": "All Pairs Shortest Path",
+      "keywords": [
+        "all pairs shortest path",
+        "dynamic programming",
+        "floyd warshall"
+      ]
+    },
+    "5.20": {
+      "title": "Transitive Closure",
+      "keywords": [
+        "transitive closure",
+        "reflexive transitive closure",
+        "path existence"
+      ]
+    }
+  },
+  "UNIT VI": {
+    "6.1": {
+      "title": "Brief Tour of the Python Standard Library",
+      "keywords": ["standard library", "built-in modules", "system functionality", "I/O"]
+    },
+    "6.2": {
+      "title": "Operating System Interface",
+      "keywords": ["os module", "operating system", "process information", "filesystem"]
+    },
+    "6.3": {
+      "title": "OS Module Functions",
+      "keywords": [
+        "os.system",
+        "os.getcwd",
+        "os.getpid",
+        "os.listdir",
+        "os.mkdir",
+        "os.remove",
+        "os.rename"
+      ]
+    },
+    "6.4": {
+      "title": "String Pattern Matching",
+      "keywords": ["regular expressions", "re module", "pattern matching"]
+    },
+    "6.5": {
+      "title": "Regular Expression Functions",
+      "keywords": ["re.match", "re.search", "re.sub", "match object"]
+    },
+    "6.6": {
+      "title": "Regular Expression Patterns",
+      "keywords": [
+        "regex syntax",
+        "quantifiers",
+        "character classes",
+        "grouping",
+        "anchors"
+      ]
+    },
+    "6.7": {
+      "title": "Mathematical Functions",
+      "keywords": ["math module", "ceil", "floor", "sqrt", "log", "trigonometric functions"]
+    },
+    "6.8": {
+      "title": "Internet Access Using Python",
+      "keywords": ["SMTP", "smtplib", "email sending", "mail server"]
+    },
+    "6.9": {
+      "title": "Date and Time Handling",
+      "keywords": ["time module", "ctime", "localtime", "sleep", "clock"]
+    },
+    "6.10": {
+      "title": "Calendar Module",
+      "keywords": ["calendar module", "leap year", "month calendar", "weekday"]
+    },
+    "6.11": {
+      "title": "Data Compression",
+      "keywords": ["zlib", "gzip", "zipfile", "tarfile", "data compression"]
+    },
+    "6.12": {
+      "title": "Multithreading Concepts",
+      "keywords": ["threads", "lightweight process", "concurrency", "thread lifecycle"]
+    },
+    "6.13": {
+      "title": "Thread Module",
+      "keywords": ["thread module", "start_new_thread", "parallel execution"]
+    },
+    "6.14": {
+      "title": "Threading Module",
+      "keywords": [
+        "threading module",
+        "Thread class",
+        "start",
+        "join",
+        "isAlive"
+      ]
+    },
+    "6.15": {
+      "title": "Thread Synchronization",
+      "keywords": ["locks", "acquire", "release", "thread synchronization"]
+    },
+    "6.16": {
+      "title": "GUI Programming in Python",
+      "keywords": ["GUI", "Tkinter", "widgets", "event loop"]
+    },
+    "6.17": {
+      "title": "Tkinter Widgets",
+      "keywords": [
+        "Button",
+        "Label",
+        "Entry",
+        "Radiobutton",
+        "Text",
+        "Menu"
+      ]
+    },
+    "6.18": {
+      "title": "Menu and Event Handling",
+      "keywords": ["Menu widget", "event handling", "callbacks"]
+    },
+    "6.19": {
+      "title": "Turtle Graphics",
+      "keywords": ["turtle graphics", "coordinates", "drawing", "Logo language"]
+    },
+    "6.20": {
+      "title": "Turtle Operations",
+      "keywords": [
+        "forward",
+        "backward",
+        "left",
+        "right",
+        "goto",
+        "seth"
+      ]
+    },
+    "6.21": {
+      "title": "Software Testing Basics",
+      "keywords": [
+        "software testing",
+        "quality assurance",
+        "software quality",
+        "testing importance"
+      ]
+    },
+    "6.22": {
+      "title": "Unit Testing in Python",
+      "keywords": ["unit testing", "unittest framework", "test cases"]
+    },
+    "6.23": {
+      "title": "Writing and Running Test Cases",
+      "keywords": [
+        "assert methods",
+        "test methods",
+        "test independence",
+        "test execution"
+      ]
+    }
+  }
+}

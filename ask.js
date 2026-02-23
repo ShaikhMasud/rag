@@ -26,7 +26,7 @@ function askRAG(question) {
 }
 
 // Example usage
-askRAG("fuzzy control system example")
+askRAG("what is in context on Deletion Operation in BST and then explain in detail")
   .then(res => {
     console.log("Answer from Python RAG:\n");
     console.log(res.answer);
