@@ -36,5 +36,3 @@ Perfect for building intelligent document Q&A systems, knowledge base chatbots, 
 - JavaScript/Node.js interface via `ask.js`
 - Python backend for core processing
 - Seamless cross-language communication
-
-## Project Structure
